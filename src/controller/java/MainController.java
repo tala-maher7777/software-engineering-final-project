@@ -1,9 +1,9 @@
-package Controller;
+package controller.java;
 
 import Model.Student;
 import Model.Instructor;
 import Model.Progress;
-import View.MainView;
+import view.java.MainView;
 
 public class MainController {
 
